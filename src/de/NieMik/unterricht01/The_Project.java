@@ -62,7 +62,7 @@ public class The_Project {
                    
                     // Wenn ich auf eine Falltür trete
                     if (map[i][j]==4) {
-                        schadenerlitten=true;
+                        schadenerlitten = true;
                         lebensenergie--;
                         if (lebensenergie<1) {
                             schleife=false;
