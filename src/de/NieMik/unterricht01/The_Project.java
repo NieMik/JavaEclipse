@@ -171,7 +171,7 @@ public class The_Project {
         }
        
         if (tot) {
-            System.out.println("Pech gehabt, du Lappen !!!");
+            System.out.println("PECH GEHABT, DU LAPPEN !!!");
         }
      }
 }
