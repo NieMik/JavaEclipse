@@ -77,10 +77,7 @@ public class The_Project {
                     	if (lebensenergie<1){
                     		schleife=false;
                     		tot=true;
-                   
                     }
-                        
-                        
                     }
                 }
                 // ansonsten die Karte ausgeben
@@ -170,7 +167,7 @@ public class The_Project {
         } while (schleife);
       
         if (zielerreicht) {
-            System.out.println("Zitat Hankook: 'Gut gemacht!'");
+            System.out.println("Zitat Hancock: 'Gut gemacht!'");
         }
        
         if (tot) {
